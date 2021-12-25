@@ -1,0 +1,30 @@
+.img {
+  display: flex;
+  align-items: center;
+  margin: 20px 20px;
+  justify-content: space-between;
+}
+
+.Shop {
+  margin-top: 5%;
+  text-decoration: underline;
+  font-size: 20px;
+}
+
+.cards {
+  margin-top: 3%;
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+}
+.container {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+    margin: auto;
+}
+
+
+ 
