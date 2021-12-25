@@ -89,7 +89,7 @@ const Header = () => {
           <Link to="/cart">
             <Badge style={{marginLeft:"10px"}} count={+cartLength}>
             <ShoppingOutlined className="shop-cart"
-                style={{ fontSize: "30px", cursor: "pointer" }}
+                style={{ fontSize: "30px", cursor: "pointer",color:"white" }}
                 />
             </Badge>
           </Link>

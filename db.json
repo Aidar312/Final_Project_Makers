@@ -2,72 +2,72 @@
   "products": [
     {
       "for": "women",
-      "model": "Платье с оборкой",
+      "model": "Платье",
       "category": "dresses",
-      "description": "Платье из твила длиной до икры. Свободный силуэт, спереди запах с оборкой по краю. Рукава длиной три четверти. Отрезная талия и разрезы по бокам.",
+      "description": "Платье миди женское классическое нарядное на одно плечо с пышной расклешенной юбкой длинной и легкой драпировкой на талии, топовая одежка на любую вечеринку, торжество или в офис",
       "price": 7999,
-      "image1": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F67%2F12%2F6712fa89bd7fbe9aa60c9a269c54c26b96ab0b0a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-      "image2": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F8f%2F1c%2F8f1c7281cd2a40005e033fb4d651979b07c13062.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "image1": "https://images.wbstatic.net/c516x688/new/17850000/17854556-1.jpg",
+      "image2": "https://images.wbstatic.net/c516x688/new/17850000/17854556-2.jpg",
       "id": 1
     },
     {
       "for": "women",
-      "model": "Широкие брюки",
+      "model": "Брюки",
       "category": "trousers",
-      "description": "Брюки из тканого материала с блеском. Высокая талия на закрытой резинке, а прямые широкие штанины с застроченными стрелками. Боковые карманы.",
+      "description": "Брюки палаццо женские позволят вам выглядеть стильно в любую погоду. Брюки клеш изготовлены из плотной ткани, что позволяет носить их в прохладную погоду. Брюки женские подходят девушкам",
       "price": 2299,
-      "image1": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff6%2F7c%2Ff67cb2aca66aecabc6dd03771da91740a836e72b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-      "image2": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F20%2F33%2F2033ab24bc42d1ee4d8a034637bfe5f08a32cfc3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "image1": "https://images.wbstatic.net/big/new/40860000/40864519-1.jpg",
+      "image2": "https://images.wbstatic.net/big/new/40860000/40864519-2.jpg",
       "id": 2
     },
     {
       "for": "women",
-      "model": "Вязаное платье",
+      "model": "Платье",
       "category": "dresses",
-      "description": "Вязаное платье длиной до икр из пряжи с содержанием шерсти. Фрагменты вязки косами, высокий рельефный ворот с треугольным вырезом сзади. Заниженная линия плеча и длинные рукава. Рельефная обвязка снизу на рукавах и по нижнему краю. По бокам разрезы.",
+      "description": "Черное замшевое платье миди. Элегантное вечернее платье из замши станет отличным выбором на торжественное мероприятие, корпоратив, новый год, другие праздники. Плотная ткань хорошо держит форму и мягко подчеркивает все достоинства фигуры.",
       "price": 3299,
-      "image1": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F3a%2Fbd%2F3abd7bd9938621455b0e28ebbe6e8a6d5f92f5c5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-      "image2": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F14%2Faa%2F14aad367bf14809a064a5acaf21284d9a03e0820.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "image1": "https://images.wbstatic.net/big/new/4950000/4950287-1.jpg",
+      "image2": "https://images.wbstatic.net/big/new/4950000/4950287-3.jpg",
       "id": 3
     },
     {
       "for": "women",
       "model": "Свитер",
       "category": "pullover",
-      "description": "Свитер оверсайз из мягкой пряжи с добавлением шерсти. Высокий ворот в рубчик, заниженная линия плеча и широкие рукава. Обвязка резинкой снизу на рукавах и по низу свитера.",
+      "description": "Рваный свитер - тренд осени 2021 года. Свитер с рваными краями подчеркнет вашу индивидуальность и внесет в образ дерзости. Свитер однотонный женский - настоящая находка для тех, кто всегда хочет быть в центре внимания. Вязаный удлиненный свитер согреет своим теплом в холодное время года.",
       "price": 3299,
-      "image1": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F12%2F59%2F1259419590efeeb522ad9d6b35ad10cefcc88357.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-      "image2": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fd6%2F65%2Fd665895990a05a7ceafbc6d9bfbc444abb2ec82b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "image1": "https://images.wbstatic.net/big/new/42660000/42662418-1.jpg",
+      "image2": "https://images.wbstatic.net/big/new/42660000/42662418-3.jpg",
       "id": 4
     },
     {
       "for": "women",
       "model": "Платье плиссе из шифона",
       "category": "dresses",
-      "description": "Платье длиной до икры из плиссированного шифона с круглым вырезом горловины, на потайных пуговицах сверху спереди. Длинный рукав реглан, узкие манжеты на обшитой тканью пуговице. Отрезное по узкой резинке и поясу на талии. На подкладке.",
+      "description": "ХИТ ПРОДАЖ! Удобное и элегантное платье авторского дизайна. Прямой покрой и эластичный материал придает платью практичность и функциональность, поможет скрыть все недостатки и будет отлично смотреться для беременных. Подойдет на все случаи жизни, в нем можно пойти не только в офис, но и на встречу с друзьями или театр.",
       "price": 3299,
-      "image1": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F09%2Fe5%2F09e5cca3a3c67f1c6636e76f3f4a382c1061a4df.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-      "image2": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F1f%2Fcd%2F1fcd4e50f6c685032ed226754cc5b10642a41805.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "image1": "https://images.wbstatic.net/big/new/14700000/14703943-1.jpg",
+      "image2": "https://images.wbstatic.net/big/new/14700000/14703943-2.jpg",
       "id": 5
     },
     {
       "for": "women",
       "model": "Топ в рубчик",
       "category": "tops",
-      "description": "Прямой топ в рубчик из мягкого материала с добавлением шерсти. Круглый вырез горловины и длинные рукава реглан. Короткие разрезы по бокам.",
+      "description": "МОДЕЛЬ МАЛОМЕРИТ. Стильный укороченный топ из экокожи подчеркнет все очарование и сексуальность женской фигуры. Он комбинируется с кожаными шортами, брюками или юбкой. Для прохладного времени можно добавить гольф или рубашку. Доступны модели в черном, белом, бордовом и бежевом цвете. Грудь будет выгодно смотреться, а длина до талии подчеркнет все преимущества фигуры. Изготовлен топ из качественной экокожи.",
       "price": 2299,
-      "image1": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F16%2F3e%2F163ebc22c950619f76ec35af26213cdcef6b7814.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-      "image2": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F97%2F46%2F97468e62e8f603aa38cd1f8d3198817c372bc5d9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "image1": "https://images.wbstatic.net/big/new/17300000/17301347-1.jpg",
+      "image2": "https://images.wbstatic.net/big/new/17300000/17301347-2.jpg",
       "id": 6
     },
     {
       "for": "women",
       "model": "Массивные кожаные ботинки",
       "category": "shoes",
-      "description": "Кожаные ботинки с усиленным носком. Голенище до щиколотки, с молнией сбоку и петелькой сзади. Трикотажная подкладка, холщовая стелька. Грубая подошва с рисунком.",
+      "description": "Женские ботинки FERBI универсальная обувь на зиму. Несмотря на внешнюю брутальность и дерзость она как нельзя лучше подчеркивает уникальность и неповторимый стиль каждой девушки. Ботинки состоят из натуральной кожи, внутренняя подкладка из натурального меха. Данная модель станет прекрасным вариантом обуви на каждый день, вы сможете создать множество образов благодаря тому что модель сочетается и с брюками, и с платьем, и с юбкой.",
       "price": 7999,
-      "image1": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F24%2F46%2F2446e7ee39c85887dbf4fd5ef2014ccc0687c54c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-      "image2": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F22%2Fc7%2F22c73d87083615ee7173b22fe8a55e8caed9bf96.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "image1": "https://images.wbstatic.net/big/new/18160000/18166420-1.jpg",
+      "image2": "https://images.wbstatic.net/big/new/18160000/18166420-3.jpg",
       "id": 7
     },
     {
@@ -76,18 +76,18 @@
       "category": "trousers",
       "description": "Укороченные брюки из тканого материала с высокой талией и потайной застежкой на крючок и молнию. Незаметные карманы в боковых швах и прямые брючины со стрелками.",
       "price": 1699,
-      "image1": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F36%2Fff%2F36ff4cefa4cdef2dafcc75af1fa2253b1894eb55.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-      "image2": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbe%2Ff0%2Fbef08538768cea7087d0c4017b7236702b776ad7.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "image1": "https://images.wbstatic.net/big/new/17530000/17539910-1.jpg",
+      "image2": "https://images.wbstatic.net/big/new/17530000/17539910-3.jpg",
       "id": 8
     },
     {
       "for": "women",
       "model": "Флисовая панама",
       "category": "panama",
-      "description": "Smiley® x H&M. Панама из мягкого флиса с рисунком. Опущенные поля и подкладка из хлопкового поплина. Ширина полей 5,5 см.",
+      "description": "Ставшая трендом в этом сезоне меховая панама от бренда Yolo представлена в трех цветах: строгий черный, нежный белый и базовый бежевый цвет. Наша зимняя панама имеет фасон унисекс, поэтому прекрасно подойдет и для мужчин, и для женщин.",
       "price": 999,
-      "image1": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff1%2F56%2Ff1569629f6b2707d701265d4b637fa8f53c905cb.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
-      "image2": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F45%2F20%2F45200825acbc0c77776735ef6254cac4a6f90ee9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "image1": "https://images.wbstatic.net/big/new/39420000/39422902-1.jpg",
+      "image2": "https://images.wbstatic.net/big/new/39420000/39422902-2.jpg",
       "id": 9
     },
     {
@@ -96,18 +96,18 @@
       "category": "hoodies",
       "description": "Широкое худи из футера с капюшоном на подкладке и кулиске. Карман-муфта спереди. Рельефная трикотажная резинка снизу на рукавах и по нижнему краю.",
       "price": 1799,
-      "image1": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa0%2F38%2Fa038f97bfc004d3149e40eba6a12040b1787cc44.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-      "image2": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F51%2F49%2F514974e294bb5a5c19a3b61c9c9414f0277d4f45.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "image1": "https://images.wbstatic.net/big/new/14640000/14648460-1.jpg",
+      "image2": "https://images.wbstatic.net/big/new/14640000/14648460-4.jpg",
       "id": 10
     },
     {
       "for": "women",
       "model": "Пижамные брюки из шелка",
       "category": "trousers",
-      "description": "Пижамные брюки из шелка с прямыми широкими штанинами. Талия на закрытой резинке и кулиске.",
+      "description": "Женская пижама с шортами состоит из экстра-мягкого и свободного материала-бамбукового волокна. Главными преимуществами этой ткани являются неприхотливость в уходе и гладкая и нежная фактура материала, которая обеспечит незабываемые тактильные ощущения. Пижама с шортами станет идеальным вариантом для жарких летних ночей, она не стесняет движений и обеспечивает удобное прилегание к телу.",
       "price": 7999,
-      "image1": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fda%2F96%2Fda9647d9dfca3b8159702fbfbdd327a87bc6cc85.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-      "image2": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbc%2F8e%2Fbc8ed58a48b09d5c195b4546f40fc5d1dd3ed417.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "image1": "https://images.wbstatic.net/big/new/33650000/33659922-1.jpg",
+      "image2": "https://images.wbstatic.net/big/new/33650000/33659922-2.jpg",
       "id": 11
     },
     {
@@ -116,8 +116,8 @@
       "category": "jumper",
       "description": "Мягкий хлопковой джемпер тонкой вязки с круглым вырезом горловины, заниженной линией плеча и длинным рукавом. Рельефная обвязка горловины, низа рукава и низа джемпера. Relaxed Fit – прямой свободный фасон, не стесняющий движений. Благодаря этому создается удобный непринужденный силуэт.",
       "price": 1999,
-      "image1": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc8%2Ffa%2Fc8fa7a661c8749f05fd76cffbb297fb019eb6f16.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_cardigansjumpers_jumpers%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-      "image2": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F33%2F4e%2F334e5a57b92c7133cb649642a9a3ae36cf2d18d4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "image1": "https://images.wbstatic.net/big/new/39410000/39419272-1.jpg",
+      "image2": "https://images.wbstatic.net/big/new/39410000/39419272-2.jpg",
       "id": 12
     },
     {
@@ -126,8 +126,8 @@
       "category": "jumper",
       "description": "Вязаный джемпер с жаккардовым рисунком из пряжи с добавлением альпаки. Круглый вырез горловины, заниженная линия плеча и обвязка резинкой горловины, низа рукавов и нижнего края. Relaxed Fit – прямой свободный фасон, не стесняющий движений. Благодаря этому создается удобный непринужденный силуэт.",
       "price": 3299,
-      "image1": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fae%2F5c%2Fae5cc90857d983a603500b946b974ff826819fa0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-      "image2": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F74%2Fe8%2F74e84657cd73a54075009ffbd3543527cce7d713.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "image1": "https://images.wbstatic.net/big/new/37410000/37418072-1.jpg",
+      "image2": "https://images.wbstatic.net/big/new/37410000/37418072-2.jpg",
       "id": 13
     },
     {
@@ -136,8 +136,8 @@
       "category": "hoodies",
       "description": "Худи из мягкого флиса. Капюшон на подкладке и кулиске, карман-муфта. Свободная посадка с заниженной линией плеча, длинный рукав и закрытая резинка снизу на рукавах и по нижнему краю.",
       "price": 2299,
-      "image1": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F76%2Fd8%2F76d84271e4bbb867d109b381b9f73d7ef6b1b83a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
-      "image2": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb7%2F29%2Fb7294978b8c87474502e8843f6ed321c3eb8149c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+      "image1": "https://images.wbstatic.net/big/new/16340000/16340061-1.jpg",
+      "image2": "https://images.wbstatic.net/big/new/16340000/16340061-2.jpg",
       "id": 14
     },
     {
@@ -146,8 +146,8 @@
       "category": "longsleeve",
       "description": "Свободная футболка с длинным рукавом из мягкого хлопкового трикотажа с принтом. Заниженная линия плеча. Рельефная трикотажная резинка по горловине и низу рукавов.",
       "price": 1599,
-      "image1": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Feb%2Fc5%2Febc5b97a36169ef4b08c5c7c6eb2d48402f25782.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
-      "image2": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F80%2Fed%2F80ed75b149cd47ea54af9f45e95609e380fb0948.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+      "image1": "https://images.wbstatic.net/big/new/26430000/26436487-1.jpg",
+      "image2": "https://images.wbstatic.net/big/new/26430000/26436487-2.jpg",
       "id": 15
     },
     {
@@ -156,18 +156,18 @@
       "category": "sweatshirts",
       "description": "Свитшот из смесового хлопка с мягкой изнанкой с начесом. Воротник стойка и молния сверху. Кокетка спереди, а также трикотажная резинка снизу на рукавах и по нижнему краю.",
       "price": 1699,
-      "image1": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F50%2Fce%2F50ce572debf795276a51b8b430d87f4ba50df66f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-      "image2": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe0%2F4f%2Fe04f3d4eebf6010f1166ccd89e77f807793d4f26.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "image1": "https://images.wbstatic.net/big/new/16270000/16276517-1.jpg",
+      "image2": "https://images.wbstatic.net/big/new/16270000/16276517-2.jpg]",
       "id": 16
     },
     {
       "for": "men",
       "model": "Худи с рисунком Relaxed Fit",
       "category": "hoodies",
-      "description": "Smiley® x H&M. Худи из футера с мягкой изнанкой с начесом. Свободный силуэт с капюшоном на запахе и на подкладке, а также с кулиской. Рисунок спереди и сзади. Карман-муфта спереди. Заниженная линия плеча и длинные рукава. Рельефная трикотажная резинка по низу рукавов и нижнему краю.",
+      "description": "Худи из футера с мягкой изнанкой с начесом. Свободный силуэт с капюшоном на запахе и на подкладке, а также с кулиской. Рисунок спереди и сзади. Карман-муфта спереди. Заниженная линия плеча и длинные рукава. Рельефная трикотажная резинка по низу рукавов и нижнему краю.",
       "price": 2299,
-      "image1": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F9a%2Fc0%2F9ac0429f89a7b68ab83ffcbc8fa983b6c2900a79.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
-      "image2": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fdd%2F31%2Fdd31462b32f1dcbc0ae051d7577dda00e8348b90.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "image1": "https://images.wbstatic.net/big/new/34680000/34684655-1.jpg",
+      "image2": "https://images.wbstatic.net/big/new/34680000/34684655-3.jpg",
       "id": 17
     }
   ]

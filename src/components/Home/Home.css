@@ -16,6 +16,7 @@
   display: flex;
   justify-content: center;
   justify-content: space-around;
+
 }
 .container {
   margin-left: auto;
@@ -24,6 +25,13 @@
 
 img {
     margin: auto;
+}
+
+.wildberries{
+  margin-top: 15px;
+  background-color:#cb11ab ;
+  font-size: large;
+  
 }
 
 

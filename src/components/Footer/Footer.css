@@ -11,12 +11,15 @@
     display: flex;
     justify-content: space-around;
     margin-left: -3.7%;
+    background-color:#481173;
+    color: white;
 }
 
 .foot {
     margin-top: 5%;
     font-size: 15px;
     align-items: center;
+    color:white
 }
 
 .foot h3 {
@@ -36,7 +39,7 @@ a {
 }
 
 .ins a {
-    color: black;
+    color:white;
 }
 
 img {
@@ -63,7 +66,7 @@ img {
     background-color: #ececec; 
     display: flex;
     justify-content: center; 
-    color: black; 
+    color:white; 
     text-transform: uppercase; 
     line-height: 50px; 
     letter-spacing: 1px; 
